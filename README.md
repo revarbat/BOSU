@@ -1,6 +1,8 @@
 # BOSU
 Belfry OpenScad Utility
 
+**STILL IN PLANNING**
+
 A general multi-purpose utility to help work with OpenSCAD.
 
 Things this can do:
